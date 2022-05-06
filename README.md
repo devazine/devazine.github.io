@@ -8,6 +8,8 @@
 
 ## 介绍
 
+Devazine 开发志 - [https://devazine.github.io](https://devazine.github.io)
+
 [VaJoy Lan](https://github.com/VaJoy) 个人技术博客站点。
 
 Since May 2022, powered by [vite-plugin-markdown-to-component](https://github.com/devazine/vite-plugin-markdown-to-component).
