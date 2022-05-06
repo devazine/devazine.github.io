@@ -5,6 +5,7 @@
 ## 介绍
 
 [VaJoy Lan](https://github.com/VaJoy) 个人技术博客站点。
+
 Powered by [vite-plugin-markdown-to-component](https://github.com/devazine/vite-plugin-markdown-to-component).
 
 ## 文章列表
