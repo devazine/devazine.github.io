@@ -21,6 +21,8 @@ Since May 2022, powered by [vite-plugin-markdown-to-component](https://github.co
 
 欢迎到 [Issues](https://github.com/devazine/devazine.github.io/issues) 提交相关问题/建议。
 
+也欢迎喜欢前端的同学加入Q群 `460065020` 进行交流。
+
 ## 赞赏
 
 - USDT-TRC20：`TGWE862iYDx96fcWZxTQcZA5kxNXb6Hpo5`
