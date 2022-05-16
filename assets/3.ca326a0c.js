@@ -1,0 +1,1 @@
+import{o as a,c as o}from"./vendor.21011c26.js";function n(t,r){return a(),o("h1",null,"\u4E00. aaa")}const e={render:n};e.__hmrId="C:/Users/vajoy/Documents/devazine/src/pages/algorithm/markdowns/3.md";e.__toc=[{level:"1",content:"&#x4E00;. aaa"}];export{e as default};
