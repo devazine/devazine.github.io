@@ -16,8 +16,9 @@ Since May 2022, powered by [vite-plugin-markdown-to-component](https://github.co
 
 ## 文章列表
 
-- [Vue.js 源码解析](https://devazine.github.io/#/source-analysis/vue/)
-- [算法](https://devazine.github.io/#/algorithm/)
+- [Swift 入门指南](https://devazine.github.io/#/swift/)
+- [Vue.js 源码解析](https://devazine.github.io/#/fe/source-analysis/vue/)
+- [算法](https://devazine.github.io/#/fe/algorithm/)
 
 ## 文章勘误 + 反馈
 
